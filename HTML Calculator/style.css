@@ -1,0 +1,58 @@
+.b:hover, .z:hover{
+                 background-color: #202020;
+                 color:whitesmoke;
+                 
+                
+            }
+            .a{
+                width:496px;
+                color:	#7C7C7C;
+                background-color: #202020;
+                height:80px;
+                text-align: right;
+                font-size:74px;
+                padding-top:80px;
+                border: 2px solid  #202020;
+                
+            }
+            .a1{
+                padding-top: 40px;
+                 width:496px;
+                color:	#7C7C7C;
+                background-color: #202020;
+                height:60px;
+                text-align: right;
+                font-size:44px;
+                padding-top:80px;
+                border: 2px solid  #202020; 
+                
+            }
+            .b{
+                border:1px solid #202020;
+                border-radius: 4px;
+                width:122px;
+                height:100px;
+            font-size:40px;
+            }
+            .z{
+                 border:1px solid #202020;
+                border-radius: 4px;
+                height:100px;
+                width: 248px;
+                font-size:40px;
+            }
+            .c{
+                background-color: white;
+                 border:1px solid #202020;
+                border-radius: 4px;
+            }
+            .d{
+                 border:1px solid #202020;
+                border-radius: 4px;
+                background-color: #FA8E14;
+            }
+            .e{
+                 border:1px solid #202020;
+                border-radius: 4px;
+                background-color: #33C7F7;
+            }

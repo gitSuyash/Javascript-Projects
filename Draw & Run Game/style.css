@@ -1,0 +1,49 @@
+.b{
+                border: 1px solid black;
+            }
+            .Innerimg{
+                height: 60px;
+                width:60px;
+               
+            }
+            .img{
+                width:1362px;
+                height: 60px;
+                
+            }
+            .img1{
+                width:100%;
+                margin-left: 120px;
+            }
+            .players{
+                float:left;border:1px solid black;padding:1px;visibility:hidden;
+            }
+            .a{
+                width:118px;
+            }
+            .de{
+                background-color:#33C7F7;
+            }
+            .d1{
+                background-color: #000;
+            }
+            .p1{
+                background-color:orange;
+                color:white;
+                padding:2px;
+            }
+            .p2{
+                background-color:greenyellow;
+                color:grey;
+                 padding:2px;
+            }
+            #btn{
+                height: 70px;
+                width:290px;
+                font-size: 35px;
+            }
+             #btn1{
+                height: 70px;
+                width:290px;
+                font-size: 35px;
+            }
